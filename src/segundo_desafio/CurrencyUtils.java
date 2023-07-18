@@ -1,4 +1,4 @@
-package desafio02;
+package segundo_desafio;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

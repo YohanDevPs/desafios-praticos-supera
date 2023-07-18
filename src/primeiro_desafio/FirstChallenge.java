@@ -1,4 +1,4 @@
-package desafio01;
+package primeiro_desafio;
 
 import java.util.ArrayList;
 import java.util.Comparator;

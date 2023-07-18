@@ -1,4 +1,4 @@
-package desafio02;
+package segundo_desafio;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import static desafio02.CurrencyUtils.createCoinList;
-import static desafio02.CurrencyUtils.createNoteList;
+import static segundo_desafio.CurrencyUtils.createCoinList;
+import static segundo_desafio.CurrencyUtils.createNoteList;
 
 public class SecondChallenge {
 
